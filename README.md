@@ -1,5 +1,12 @@
 # ✈️ VoyageAI – Agentic Trip Planner
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent-purple)
+![FastMCP](https://img.shields.io/badge/FastMCP-Server-orange)
+![Groq](https://img.shields.io/badge/Groq-LLM-black)
+![Tavily](https://img.shields.io/badge/Tavily-Search-green)
+
 VoyageAI is an **Agentic AI travel planning system** built using **FastMCP, LangGraph, Groq LLM, and Streamlit**.
 It uses multiple tools (weather, web research, attractions, budgeting) to generate a **complete travel itinerary automatically**.
 
@@ -80,7 +87,7 @@ VoyageAI/
 
 Install the following:
 
-* **Python 3.10+**
+* **Python 3.11+**
 * **uv package manager**
 * API keys for:
 
@@ -151,7 +158,7 @@ Starting Trip Planner MCP Server
 For debugging the agent:
 
 ```bash
-uv run fast dev
+uv run fastmcp dev inspector trip_mcp/mcp_server.py
 ```
 
 This allows inspection of the MCP tools.
@@ -163,7 +170,7 @@ This allows inspection of the MCP tools.
 Start the UI:
 
 ```bash
-streamlit run streamlit_app.py
+uv run streamlit run streamlit_app.py
 ```
 
 The app will open at:
