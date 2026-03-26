@@ -1,0 +1,432 @@
+2026-03-25 23:43:26,932 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-25 23:53:18,322 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-25 23:55:31,353 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-25 23:56:00,644 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 00:10:15,847 - trip_planner - ERROR - Expense estimation failed for Goa: Currency conversion failed
+2026-03-26 00:10:47,237 - trip_planner - ERROR - Expense estimation failed for Goa: Currency conversion failed
+2026-03-26 00:12:46,563 - trip_planner - ERROR - Foursquare failed for Goa (attractions): 401 Client Error: Unauthorized for url: https://api.foursquare.com/v3/places/search?query=attractions&near=Goa&limit=10
+2026-03-26 00:21:14,580 - trip_planner - ERROR - Foursquare failed for Goa (attractions): 401 Client Error: Unauthorized for url: https://api.foursquare.com/v3/places/search?query=attractions&near=Goa&limit=10
+2026-03-26 00:23:46,246 - trip_planner - ERROR - Foursquare failed for Bangalore (attractions): 401 Client Error: Unauthorized for url: https://api.foursquare.com/v3/places/search?query=attractions&near=Bangalore&limit=10
+2026-03-26 00:28:26,332 - trip_planner - ERROR - Foursquare failed for Goa: 401 Client Error: Unauthorized for url: https://api.foursquare.com/v3/places/search?query=attractions&near=Goa&limit=10
+2026-03-26 00:29:42,415 - trip_planner - ERROR - Foursquare failed for Bangalore: 401 Client Error: Unauthorized for url: https://api.foursquare.com/v3/places/search?query=attractions&near=Bangalore&limit=10
+2026-03-26 00:32:17,816 - trip_planner - ERROR - Foursquare failed for Bangalore: 401 Client Error: Unauthorized for url: https://api.foursquare.com/v3/places/search?query=attractions+in+Bangalore&limit=10
+2026-03-26 00:32:58,066 - trip_planner - ERROR - Foursquare failed for Goa
+: 401 Client Error: Unauthorized for url: https://api.foursquare.com/v3/places/search?query=attractions+in+Goa%0A&limit=10
+2026-03-26 00:35:25,872 - trip_planner - ERROR - Foursquare API error: {"message":"Invalid request token."}
+2026-03-26 00:35:25,873 - trip_planner - ERROR - Foursquare failed for Goa: Places search failed
+2026-03-26 12:30:57,924 - trip_planner - ERROR - Currency conversion failed: 404 Client Error: Not Found for url: https://v6.exchangerate-api.com/v6/cb517c1a1bca53c4d7b547f6/pair/USD/INR/-130
+2026-03-26 12:30:58,253 - trip_planner - ERROR - Expense estimation failed for New York: Currency conversion failed
+2026-03-26 12:30:58,254 - trip_planner - ERROR - Itinerary generation failed for New York: Expense estimation failed
+2026-03-26 13:07:27,537 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:07:28,328 - trip_planner - INFO - Loaded 6 tools
+2026-03-26 13:08:38,315 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:08:38,639 - trip_planner - INFO - Loaded 6 tools
+2026-03-26 13:08:38,641 - trip_planner - INFO - Starting trip planning for: Plan a 5 day trip to Paris in June
+2026-03-26 13:10:46,418 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:10:46,730 - trip_planner - INFO - Loaded 6 tools
+2026-03-26 13:10:46,731 - trip_planner - INFO - Starting trip planning for: Plan a 5 day trip to Paris in June
+2026-03-26 13:12:19,782 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:12:20,092 - trip_planner - INFO - Loaded 6 tools
+2026-03-26 13:12:20,102 - trip_planner - INFO - Starting trip planning for: Plan a 5 day trip to Paris in June
+2026-03-26 13:12:25,103 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:12:25,136 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:12:25,171 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:12:25,309 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:12:25,443 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:12:41,878 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:12:42,041 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:12:42,047 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:12:42,055 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:12:42,097 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:12:42,177 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:12:58,132 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:12:58,155 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:12:58,167 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:12:58,183 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:12:58,333 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:12:58,345 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:13,509 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:13,680 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:13,725 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:13,769 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:13,843 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:13,925 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:27,581 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:27,587 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:27,625 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:27,663 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:27,827 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:27,934 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:42,565 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:42,656 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:42,659 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:42,673 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:42,813 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:42,834 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:58,891 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:58,904 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:59,001 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:59,077 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:59,274 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:13:59,329 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:14,133 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:14,165 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:14,176 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:14,294 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:14,307 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:14,340 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:26,955 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:26,982 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:27,119 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:27,126 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:27,131 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:27,293 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:42,310 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:42,575 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:42,580 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:42,590 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:42,613 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:42,794 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:57,063 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:57,133 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:57,133 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:57,345 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:57,467 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:14:57,558 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:15:10,626 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:15:10,707 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:15:10,877 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:15:10,877 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:15:11,005 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:15:11,131 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:15:23,407 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:15:23,422 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:15:23,448 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:15:23,556 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:15:23,558 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:15:23,736 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:15:40,843 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:15:40,934 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:15:41,129 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:15:41,261 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:15:41,346 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:15:41,378 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:24,699 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:25,008 - trip_planner - INFO - Loaded 6 tools
+2026-03-26 13:16:25,044 - trip_planner - INFO - Starting trip planning for: Plan a 5 day trip to Paris in June
+2026-03-26 13:16:29,448 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:29,462 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:29,604 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:29,638 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:29,714 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:44,785 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:44,975 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:44,995 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:45,062 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:45,130 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:45,175 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:45,315 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:45,391 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:57,334 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:57,340 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:57,355 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:57,396 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:57,656 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:16:57,717 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:08,764 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:08,859 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:08,877 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:08,933 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:09,029 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:09,121 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:21,527 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:21,679 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:21,697 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:21,855 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:21,867 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:22,037 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:37,357 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:37,361 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:37,399 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:37,564 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:37,567 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:37,580 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:55,337 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:55,356 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:55,390 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:55,406 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:55,538 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:17:55,713 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:07,569 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:07,569 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:07,685 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:07,791 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:07,888 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:08,028 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:23,858 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:24,123 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:24,269 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:24,347 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:24,382 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:24,482 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:41,604 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:41,614 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:41,703 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:41,828 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:41,984 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:41,985 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:58,322 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:58,362 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:58,402 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:58,436 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:58,615 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:18:58,839 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:19:14,315 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:19:14,331 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:19:14,345 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:19:14,373 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:19:14,469 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:19:14,550 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:21:21,731 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:21:22,042 - trip_planner - INFO - Loaded 6 tools
+2026-03-26 13:24:00,299 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:24:00,608 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 13:24:00,623 - trip_planner - INFO - Starting trip planning for: Plan a 5 day trip to Paris in June
+2026-03-26 13:24:05,050 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:24:05,099 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:24:05,157 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:24:05,178 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:24:05,267 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:27:46,405 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:27:46,717 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 13:27:46,729 - trip_planner - INFO - Starting trip planning for: Plan a 5 day trip to Paris in June
+2026-03-26 13:27:50,897 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:27:50,974 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:27:51,070 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:27:51,232 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:27:51,366 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:34:18,855 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:34:19,173 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 13:34:19,184 - trip_planner - INFO - Starting trip planning for: Plan a 5 day trip to Paris in June
+2026-03-26 13:34:23,775 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:34:23,816 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:34:23,944 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:34:24,084 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:34:24,119 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:36:52,731 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:36:53,099 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 13:36:53,111 - trip_planner - INFO - Starting trip planning for: Plan a 5 day trip to India in June
+2026-03-26 13:36:57,578 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:36:57,618 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:36:57,653 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:36:57,691 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:36:57,866 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:43:52,762 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:43:53,085 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 13:43:53,099 - trip_planner - INFO - Starting trip planning for: Plan a 5 day trip to Paris in June
+2026-03-26 13:46:28,706 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:46:29,019 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 13:46:29,033 - trip_planner - INFO - Starting trip planning for: Plan a 5 day trip to Paris in June
+2026-03-26 13:46:48,615 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:46:48,925 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 13:46:48,936 - trip_planner - INFO - Starting trip planning for: Plan a 5 day trip to Paris in June
+2026-03-26 13:46:52,100 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:46:52,155 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:48:57,707 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:48:58,007 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 13:48:58,019 - trip_planner - INFO - Starting trip planning for: Plan a 5 day trip to India in June
+2026-03-26 13:49:02,489 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:49:02,490 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:49:02,506 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:49:02,521 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:49:02,572 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:53:23,628 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 13:53:23,937 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 13:53:23,951 - trip_planner - INFO - Starting trip planning for: Plan a 5 day trip to Kolkata in June
+2026-03-26 13:53:26,911 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:06:51,886 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:06:52,388 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 14:06:52,435 - trip_planner - INFO - Starting trip planning for: Plan a 2 day trip to India in June
+2026-03-26 14:06:56,695 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:07:03,456 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:08:09,027 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:08:09,434 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 14:08:09,449 - trip_planner - INFO - Starting trip planning for: Plan a 2 day trip to Kolkata in June
+2026-03-26 14:08:12,887 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:11:53,081 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:11:53,386 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 14:11:53,397 - trip_planner - INFO - Starting trip planning for: Plan a 2 day trip to India in June
+2026-03-26 14:11:55,834 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:12:00,572 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:12:03,404 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:12:08,466 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:12:55,132 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:12:55,448 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 14:12:55,459 - trip_planner - INFO - Starting trip planning for: Plan a 2 day trip to Paris in June
+2026-03-26 14:12:58,194 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:13:02,975 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:13:06,845 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:13:26,882 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:29:15,518 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:29:15,850 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 14:29:15,891 - trip_planner - INFO - Starting trip planning for: Plan a 2 day trip to India in June
+2026-03-26 14:29:19,680 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:29:25,631 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:29:29,570 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:29:35,647 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:31:33,770 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:31:34,100 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 14:31:34,112 - trip_planner - INFO - Starting trip planning for: Plan a 2 day trip to India in June
+2026-03-26 14:31:36,545 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:31:36,575 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:41:26,330 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:41:26,838 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 14:41:26,874 - trip_planner - INFO - Starting trip planning for: Plan a 2 day trip to Paris in June
+2026-03-26 14:41:29,843 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:41:34,033 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:41:37,414 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:41:41,876 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:41:50,943 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:41:55,265 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:42:00,307 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:42:05,045 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:42:07,704 - trip_planner - ERROR - OpenTripMap failed for : 'lat'
+2026-03-26 14:42:07,704 - trip_planner - ERROR - Itinerary generation failed for : Places search failed
+2026-03-26 14:42:58,444 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:42:58,748 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 14:42:58,761 - trip_planner - INFO - Starting trip planning for: Plan a 2 day trip to Paris in June
+2026-03-26 14:43:03,957 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:43:03,961 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:43:03,964 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:43:03,967 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:43:04,100 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:45:09,437 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:45:09,766 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 14:45:09,778 - trip_planner - INFO - Starting trip planning for: Plan a 2 day trip to Paris in June
+2026-03-26 14:45:15,236 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:45:15,257 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:45:15,289 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:45:15,309 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:45:15,367 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:48:08,935 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:48:09,240 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 14:48:09,251 - trip_planner - INFO - Starting trip planning for: Plan a 2 day trip to Paris in June
+2026-03-26 14:48:13,647 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:48:13,688 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:48:13,772 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:48:13,813 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:48:13,885 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:56:06,797 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:56:07,155 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 14:56:07,166 - trip_planner - INFO - Starting trip planning for: Plan a 2 day trip to Tokyo in June
+2026-03-26 14:56:13,313 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:56:13,361 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:56:13,418 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:56:13,539 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 14:56:13,715 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 15:02:02,655 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 15:02:02,984 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 15:02:02,996 - trip_planner - INFO - Starting trip planning for: Plan a 2 day trip to Tokyo in June
+2026-03-26 15:02:08,386 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 15:02:08,474 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 15:02:08,587 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 15:02:08,721 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 15:02:08,726 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 15:09:32,580 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 15:09:32,935 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 15:09:32,947 - trip_planner - INFO - Starting trip planning for: Plan a 2 day trip to Tokyo in June
+2026-03-26 15:09:37,439 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 15:09:37,473 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 15:09:37,503 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 15:09:37,739 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 15:49:44,130 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 15:49:44,535 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 15:49:44,575 - trip_planner - INFO - Starting trip planning for: Plan a 2 day trip to Tokyo in June
+2026-03-26 15:49:50,371 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 15:49:50,495 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 15:49:50,520 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 15:49:50,626 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 15:49:50,754 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:03:35,821 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:03:36,307 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 16:03:36,361 - trip_planner - INFO - Starting trip planning for: Plan a 2 day trip to Tokyo in June
+2026-03-26 16:03:42,055 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:03:42,195 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:03:42,270 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:03:42,361 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:03:42,388 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:04:55,537 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:04:55,905 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 16:04:55,918 - trip_planner - INFO - Starting trip planning for: Plan a 2 day trip to Kolkata in June
+2026-03-26 16:05:01,015 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:05:01,047 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:05:01,140 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:05:01,187 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:22:08,964 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:22:09,376 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 16:22:09,394 - trip_planner - INFO - Starting trip planning for: Plan a 2 day trip to Tokyo in June
+2026-03-26 16:22:15,122 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:22:15,177 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:22:15,271 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:22:15,271 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:22:15,297 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:30:47,111 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:32:03,520 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:32:04,053 - trip_planner - INFO - Loaded 6 MCP tools
+2026-03-26 16:35:50,919 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:36:01,955 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:38:59,855 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:39:13,661 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:39:13,663 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:39:13,688 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:39:13,836 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:39:14,870 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:40:11,162 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:40:11,179 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:40:11,424 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:40:11,468 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:40:11,804 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:41:07,884 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:41:07,915 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:41:07,982 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:41:08,140 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:41:08,201 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:41:08,303 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:41:08,419 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:41:08,695 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:41:08,801 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:41:09,022 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:45:56,443 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:46:14,913 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:46:15,117 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:46:15,267 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:46:15,348 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:46:15,366 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:47:23,389 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:47:23,414 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:47:23,553 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:47:23,575 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:47:23,715 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:47:23,719 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:47:23,900 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:48:15,075 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:48:15,227 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:48:15,249 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:48:15,382 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:48:15,393 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:48:51,157 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:48:51,188 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:48:51,240 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:48:51,433 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:48:51,539 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:53:49,306 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:54:02,153 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:54:02,155 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:54:02,157 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:54:02,167 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:54:02,176 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:57:13,158 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:57:20,853 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:57:20,890 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:57:20,960 - trip_planner - INFO - Starting Trip Planner MCP Server
+2026-03-26 16:57:20,973 - trip_planner - INFO - Starting Trip Planner MCP Server

@@ -1,0 +1,14 @@
+fastmcp
+langgraph
+langchain
+langchain-groq
+langchain-community
+langchain-core
+langchain-mcp-adapters
+pydantic
+python-dotenv
+pyyaml
+streamlit
+httpx
+tavily-python
+requests
